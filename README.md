@@ -1,5 +1,8 @@
 # js-weather-app
 
+# Live Project Link 
+- https://frontend-practice-projects.github.io/js-weather-app/
+
 open weather map api used
 copy api keys
 read current weather data doc
